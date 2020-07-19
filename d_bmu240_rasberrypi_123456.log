@@ -1,0 +1,17 @@
+2020-07-17 22:15:23,396   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 10:16:54,952   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 10:22:12,240   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 10:34:40,314   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 10:49:58,068   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 11:05:40,377   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 11:07:12,775   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 11:18:18,935   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 11:33:11,777   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 16:34:30,357   ibmiotf.device.Client      CRITICAL Failed to connect to IBM Watson IoT Platform: bmu240.messaging.internetofthings.ibmcloud.com - [Errno 11001] getaddrinfo failed
+2020-07-18 16:34:57,923   ibmiotf.device.Client      CRITICAL Failed to connect to IBM Watson IoT Platform: bmu240.messaging.internetofthings.ibmcloud.com - [Errno 11001] getaddrinfo failed
+2020-07-18 16:36:51,751   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 16:38:06,220   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 16:57:50,681   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 19:25:12,875   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 20:01:16,010   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
+2020-07-18 20:03:12,480   ibmiotf.device.Client      INFO    Connected successfully: d:bmu240:rasberrypi:123456
